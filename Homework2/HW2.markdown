@@ -9,7 +9,7 @@ permalink: /HW2/
 
 This is a paragraph.
 
-**This will be bold** ~~This will be strike through~~ <u>This will be underlined</u> 
+**This will be bold** ~~This will be strike through~~ **This will be underlined**
 
 ### Lists
 
